@@ -1,0 +1,19 @@
+{
+  "name": "ramda-quill",
+  "version": "0.0.1",
+  "description": "A minimal build of Ramda compatible with React Quill's needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicohvi/ramda-min.git"
+  },
+  "author": "Nicolay Hvidsten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicohvi/ramda-moin/issues"
+  },
+  "homepage": "https://github.com/nicohvi/ramda-moin#readme"
+}
